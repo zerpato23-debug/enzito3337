@@ -1,0 +1,21 @@
+Correcciones a la entrega del Proyecto 1:
+
+- El trabajo entregado no responde a los solicitado, en la materia no se usa 
+jupyter notebooks, no implementa nada de lo aprendido en clase.
+
+Nota: Desaprobado
+
+
+----------8<-----8<-----8<-----8<-----8<-----8<-----8<----------
+
+
+Correcciones a la entrega del Proyecto 2:
+
+- El trabajo entregado no responde a los solicitado, no implementa nada de lo 
+aprendido en clase.
+- Utiliza cosas no vistas en clase como la biblioteca argparse, lo que genera dudas
+sobre el origen de la implementación.
+- La estructura del proyecto no responde a lo pedido.
+- De ninguna forma los tests debieran ejecutarse como parte del proyecto.
+
+Nota: Desaprobado
