@@ -8,7 +8,7 @@ def leer_archivo(ruta):
     with open(ruta, "r") as archivo:
         for linea in archivo:
             for palabra in linea.split():
-                lista.append(int(palabra))  # ValueError si no es entero
+                lista.append(int(palabra))  
     return lista
 
 
